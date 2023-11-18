@@ -1,0 +1,4 @@
+Flask==0.12.2
+Jinja2==2.9.6
+redis==2.10.6
+Werkzeug==0.12.2
